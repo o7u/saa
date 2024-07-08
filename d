@@ -1,0 +1,1 @@
+{"name":"suma.json","description":"suma has been harmed in the creation of this theme. [suma]","spec":2,"background":{"url":"https://cdn.discordapp.com/attachments/1251464233455976551/1259781014784311348/panfN6F2.jpg?ex=668cedff&is=668b9c7f&hm=5fecabf8685c54f5ac344a5f18844c8bec2eb0f7227508eb5efd6a09bad73d85&","alpha":0.2}}
